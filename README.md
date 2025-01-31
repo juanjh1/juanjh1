@@ -42,4 +42,4 @@ I am a software engineering student and a backend developer with a passion for c
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)&nbsp;
 
-[![Dashboard stats of @juanjh1](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=92651853&image_size=auto&color_scheme=light)](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=92651853)
+[![Dashboard stats of @juanjh1](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=92651853&image_size=auto&color_scheme=dark)](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=92651853)
