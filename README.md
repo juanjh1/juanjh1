@@ -27,13 +27,13 @@ I am a software engineering student and a backend developer with a passion for c
 
 #### Database
 
-![DB](https://skillicons.dev/icons?i=mssql,mysql,postgres,mongodb&perline=4)&nbsp;
+![DB](https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=3)&nbsp;
 
 
 
 #### IDEs
 
-![Ides](https://skillicons.dev/icons?i=vscode,visualstudio,sublimetext,intellij,vim&perline=5)&nbsp;
+![Ides](https://skillicons.dev/icons?i=vscode,visualstudio,vim&perline=3)&nbsp;
 
 
 [![Dashboard stats of @juanjh1](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=92651853&image_size=auto&color_scheme=dark)](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=92651853)
