@@ -13,7 +13,7 @@ I am a software engineering student and a backend developer with a passion for c
 ## Skills:
 
 #### Languages:
-![Javascript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
+
 
 ![Languajes](https://skillicons.dev/icons?i=java,js,py&perline=3)&nbsp;
 
@@ -23,7 +23,7 @@ I am a software engineering student and a backend developer with a passion for c
 
 
 
-![Fast API](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)&nbsp;
+![ML/DL](https://skillicons.dev/icons?i=django,flask,fastapi,nodejs,html,css&perline=6)&nbsp;
 
 #### Database
 
