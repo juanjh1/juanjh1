@@ -23,7 +23,7 @@ I am a software engineering student and a backend developer with a passion for c
 
 
 
-![ML/DL](https://skillicons.dev/icons?i=django,flask,fastapi,nodejs,html,css,docker,git,vscodium&perline=9)&nbsp;
+![ML/DL](https://skillicons.dev/icons?i=django,flask,fastapi,nodejs,html,css,docker,git&perline=9)&nbsp;
 
 #### Database
 
@@ -33,7 +33,7 @@ I am a software engineering student and a backend developer with a passion for c
 
 #### IDEs
 
-![Ides](https://skillicons.dev/icons?i=vscode,visualstudio,vim&perline=3)&nbsp;
+![Ides](https://skillicons.dev/icons?i=vscode,visualstudio,vim,vscodium&perline=3)&nbsp;
 
 
 [![Dashboard stats of @juanjh1](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=92651853&image_size=auto&color_scheme=dark)](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=92651853)
