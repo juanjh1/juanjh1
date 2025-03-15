@@ -18,7 +18,7 @@ I am a software engineering student and a backend developer with a passion for c
 ![Languajes](https://skillicons.dev/icons?i=java,js,py&perline=3)&nbsp;
 
 
-#### ML/DL
+#### Tools
 
 
 
