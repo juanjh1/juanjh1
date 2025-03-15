@@ -23,7 +23,7 @@ I am a software engineering student and a backend developer with a passion for c
 
 
 
-![ML/DL](https://skillicons.dev/icons?i=django,flask,fastapi,nodejs,html,css,docker,git&perline=9)&nbsp;
+![ML/DL](https://skillicons.dev/icons?i=django,flask,fastapi,nodejs,html,css,docker,git&perline=4)&nbsp;
 
 #### Database
 
