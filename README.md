@@ -36,4 +36,4 @@ I am a software engineering student and a backend developer with a passion for c
 ![Ides](https://skillicons.dev/icons?i=vscode,visualstudio,vim,vscodium,idea&perline=4)&nbsp;
 
 
-[![Dashboard stats of @juanjh1](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=92651853&image_size=auto&color_scheme=dark)](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=92651853)
+
