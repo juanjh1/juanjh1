@@ -15,7 +15,7 @@ I am a software engineering student and a backend developer with a passion for c
 #### Languages:
 
 
-![Languajes](https://skillicons.dev/icons?i=java,js,py&perline=4)&nbsp;
+![Languajes](https://skillicons.dev/icons?i=java,js,py,ts&perline=4)&nbsp;
 
 
 #### Tools
@@ -34,6 +34,7 @@ I am a software engineering student and a backend developer with a passion for c
 #### IDEs
 
 ![Ides](https://skillicons.dev/icons?i=vscode,visualstudio,vim,vscodium,idea&perline=4)&nbsp;
+
 
 
 
